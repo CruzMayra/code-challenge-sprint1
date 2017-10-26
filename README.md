@@ -19,4 +19,4 @@ Notas: Si hay empate, debe devolver la primera palabra en la lista de parámetro
 
 
 ##Diagrama de flujo
-![diagrama-de-flujo](https://drive.google.com/open?id=0Bx-CvbwiAePlZlNqdFpnMWg5U2c)
+[diagrama-de-flujo](https://drive.google.com/open?id=0Bx-CvbwiAePlZlNqdFpnMWg5U2c)
